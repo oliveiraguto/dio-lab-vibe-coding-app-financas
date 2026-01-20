@@ -105,7 +105,7 @@ O aplicativo oferece um painel financeiro pessoal com foco em simplicidade e cla
 
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?
-Um bom refinamento no Copilot, ir lapidando e o aperfeiçoando foi algo que funcionou bem, pensando em ajustes possíveis e a ilimitação de funções e edições, pensando na maioria dos prós e contras que podemos encontrar.
+Um bom refinamento no uso do Copilot, ir lapidando e o aperfeiçoando foi algo que funcionou bem. Pensando em ajustes possíveis, ilimitação de funções e edições, tentei pensar na maioria dos prós e contras em que eu poderia encontrar dentro do que posso entregar de maneira certiva por agora.
 
   - O que não funcionou como o esperado?
 Usando o Lovable, ele limita o número de ações usando a versão gratuita do site, e com isso, algumas funções do app não ficaram totalmente funcionais quanto eu gostaria.
